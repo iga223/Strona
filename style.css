@@ -13,3 +13,7 @@ body{
  background-color:rgb(153, 204, 255);
 
 }
+
+div{
+    max-width: 600px;
+}
